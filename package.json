@@ -1,5 +1,5 @@
 {
-  "name": "Mycroft",
+  "name": "mycroft",
   "version": "1.0.0",
   "description": "Jekyll theme by the best HTML & CSS Course",
   "main": "gulpfile.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+git@github.com:kdankov/su-jekyll-mycroft.git"
+    "url": "git+git@github.com:mitaka1210/mycroft.git"
   },
   "author": "",
   "license": "ISC",
