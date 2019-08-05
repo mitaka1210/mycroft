@@ -125,7 +125,7 @@ blockquote .author:before {
       display: grid;
       grid-template-columns: 2fr 1fr;
       grid-column-gap: 4em;
-      grid-template-areas: "header header" "main sidebar" "footer footer"; }
+      grid-template-areas: "header header" "main sidebar" "footer footer"; }
       .site .site-header {
         grid-area: header; }
       .site .site-main {
@@ -141,7 +141,7 @@ blockquote .author:before {
         margin-left: auto; } }
 
 .page-blog .site {
-  grid-template-areas: "header header" "main main" "footer footer"; }
+  grid-template-areas: "header header" "main main" "footer footer"; }
 
 .mag {
   display: grid;
@@ -420,7 +420,7 @@ blockquote .author:before {
  */
 @media (min-width: 1024px) {
   .page-gallery .site {
-    grid-template-areas: "header header" "main main" "footer footer"; } }
+    grid-template-areas: "header header" "main main" "footer footer"; } }
 
 /*
  * Gallery styles
