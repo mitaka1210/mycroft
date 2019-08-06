@@ -19,7 +19,7 @@ description: I am lazy!
 destination: docs
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: @dimitar1201
+twitter_username: dimitar1201
 github_username:  mitaka1210
 
 # Build settings
